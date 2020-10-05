@@ -1,0 +1,13 @@
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\Disk F\Disk F\Dev\Aptech\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
